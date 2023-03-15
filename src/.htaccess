@@ -1,0 +1,2 @@
+php_value include_path "C:\xampp\htdocs\root\projects\iON.Engine\src"
+php_value auto_prepend_file "engine.loader.php"
